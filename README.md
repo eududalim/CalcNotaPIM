@@ -20,3 +20,4 @@ Entre outras especificações técnicas.
 
 ## FLUXOGRAMA
 
+![](imagensDocumentação/imagem1.png)
